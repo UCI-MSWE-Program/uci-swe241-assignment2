@@ -1,0 +1,1 @@
+rootProject.name = "uci-swe241-assignment2"
